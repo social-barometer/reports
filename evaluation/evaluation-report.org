@@ -3,6 +3,9 @@
 
 * Introduction
 The goal for this project is to create and offer an application, which will help people to gather information about events and locations. The research team might gather data from users to improve the application in order it to, satisfy user needs the best way possible. The user-interface has been kept simple, but still somewhat fancy. The idea is, that user will know right away how the application will work and can do whatever he/she wants with it within the limits the application creates. The Social Barometer is simply just a tool for people to use, but also to educate themselves by searching events.
+
 The user is grant by information about the event. The information includes aspects like crimes, weather and sentiment analysis referring the tweets from Twitter , from the area and event chosen by the user.
+
 We conducted user tests to evaluate the project. The participants of user tests were asked to use the app for two days and then fill a questionnaire. To get more detailed information 20% of the participants were also interviewed.
+
 Participants of the user test were not given information about what the app is supposed to do. Instead we assumed that users would intuitively understand what the app is built for. Only two constraints to our evaluation were the limited amount of people willing to participate in user tests and the time given to accomplish evaluation. We believe neither one has affected greatly our ability to conduct this evaluation.
