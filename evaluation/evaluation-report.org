@@ -9,3 +9,41 @@ The user is grant by information about the event. The information includes aspec
 We conducted user tests to evaluate the project. The participants of user tests were asked to use the app for two days and then fill a questionnaire. To get more detailed information 20% of the participants were also interviewed.
 
 Participants of the user test were not given information about what the app is supposed to do. Instead we assumed that users would intuitively understand what the app is built for. Only two constraints to our evaluation were the limited amount of people willing to participate in user tests and the time given to accomplish evaluation. We believe neither one has affected greatly our ability to conduct this evaluation.
+
+* Evaluation process
+In the beginning of the evaluation phase the project team conducted meetings in which the evaluation was designed. We decided to use user tests to test the application since there were not any techical aspects of the project that we thought needed evaluation at this point of the project. Techincal testing could prove usefull if the app were to be developed further and more users started using it.
+
+The user tests consisted of the following parts:
+1. Design the questionnaire
+2. Author a tutorial on how to use the application
+3. Gather voluntary participants
+4. Send the tutorial to participants and let them use the app for two days
+5. Participants fill the questionnaire
+6. Interviews are conducted
+7. Results are evaluated
+
+** Questionnaire design
+To best design the questionnaire each individual in the project team first designed their own questionnaires without contact with other project team members. Then a meeting was held where members presented their questionnaires and the results were combined to get the final questionnaire. Most of the questions are likert items with some open questions as well.
+
+The resulting questionnaire consists of four parts:
+1) Introduction
+2) Usability
+3) UI & Performance
+4) Usefulness
+
+The introdction has no questions. Its only purpose is to introduce the participants to the questionnaire.
+
+The usability part has three likert items and one open questions. Its purpose is to gather information on how easy the application was to understand and use.
+
+The UI & Performance part consists of four likert items and one open question. This section provides information on the visual elements of the application along with how well and fast the application works.
+
+The usefulness part has five likert items and one open question. This part of the questionnaire gathers information on how usefull the app is. F.e. would the participants be willing to use the app in the future or is the information provided by the app of any value.
+
+** Application tutorial
+To help participants get started with testing we provided them with a small tutorial in form of a PDF sent via email. The tutorial consists only of information on how to use the application. It gives no clues on what problems the application is supposed to solve. This is to ensure that we get usable information from the questionnaire. The full tutorial can is shown in the next figure:
+
+* !!!! ATTACH TUTORIAL HERE
+
+** Gathering participants 
+The participants of the user tests consist of friends and family of project group members. Each member was to aquire 5 participants of which one was to be interviewed. Friends and family were recruited since they would gladly participate without extra persuation. The fact that all participants have a relationship with the project stakeholders might skew the results of the user test to be more positive than if the participants were sampled randomly from the population. This availability bias has to be accounted for in the evaluation of the results.
+
