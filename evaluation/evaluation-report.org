@@ -17,10 +17,9 @@ The user tests consisted of the following parts:
 1. Design the questionnaire
 2. Author a tutorial on how to use the application
 3. Gather voluntary participants
-4. Send the tutorial to participants and let them use the app for two days
-5. Participants fill the questionnaire
-6. Interviews are conducted
-7. Results are evaluated
+4. Participants test the application and fill the questionnaire
+5. Interviews are conducted
+6. Results are evaluated
 
 ** Questionnaire design
 To best design the questionnaire each individual in the project team first designed their own questionnaires without contact with other project team members. Then a meeting was held where members presented their questionnaires and the results were combined to get the final questionnaire. Most of the questions are likert items with some open questions as well.
@@ -47,3 +46,5 @@ To help participants get started with testing we provided them with a small tuto
 ** Gathering participants 
 The participants of the user tests consist of friends and family of project group members. Each member was to aquire 5 participants of which one was to be interviewed. Friends and family were recruited since they would gladly participate without extra persuation. The fact that all participants have a relationship with the project stakeholders might skew the results of the user test to be more positive than if the participants were sampled randomly from the population. This availability bias has to be accounted for in the evaluation of the results.
 
+** User tests
+Right at the beginning of user tests the users stumbled upon a bug in our software. The bug was in the form were keyword is given. Users typed the keywords with a pound symbol (#) in front of the keyword just as instructed in the tutorial. For some reason this made the application halt while it was gathering information. The users were informed to not use the pound symbol in front of the keywords and user tests continued without any further snafus.
