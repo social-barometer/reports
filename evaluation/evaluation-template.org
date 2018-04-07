@@ -1,0 +1,67 @@
+Applied Computing Project 1 & 2
+
+Stage 3: Evaluation
+Mandatory and optional components for documenting your design
+
+
+	•	Cover page (mandatory)
+	•	Title of the project.
+	•	Project team members (name, student number, email address), project manager first.
+	•	Date of preparing the document.
+
+	•	Table of contents (mandatory)
+
+	•	Introduction (mandatory)
+	•	A succinct overview of the project’s purpose. 
+	•	Brief description of the evaluation regime and strategy.
+	•	Major assumptions and constraints.
+
+	•	Glossary (mandatory)
+	•	Definitions, acronyms, abbreviations and symbols.
+
+	•	Evaluation process (mandatory)
+	•	A description of the different steps that you have taken to evaluate your system, possibly in form of a flow chart.
+	•	If you have followed a specific evaluation paradigm, please describe it.
+
+	•	Setup (mandatory)
+	•	Test types and objectives: description of different tests you have conducted (e.g. focus group discussion, heuristic evaluation, task-based usability evaluation, real-world field trial, system module/integration testing) and their objectives.
+	•	Test procedure: description of the different steps taken in testing (e.g. from recruiting test users to their debriefing).
+	•	Environment: description of the test environment and any equipment/HW/SW used in testing.
+	•	Participants: description of any human subjects involved in testing (e.g. numbers and demographics).
+	•	Data collection: description of different methods you employed to collect data (e.g. questionnaires, observations, interviews, logging), description of different types of qualitative and/or quantitative data collected. 
+	•	For system module/integration testing provide:
+	•	Features tested (or combinations of features).
+	•	Test cases: for each test case, describe data inputs, expected outcome, required test environment, special procedures or rules. 
+
+	•	Data and results (mandatory)
+	•	Overview of the data collected.
+	•	Representative statistics of the data that reflect on system performance with respect to the initial objectives set for testing.
+	•	Synthesis of key results and findings from the data and the statistics.
+	•	For system module/integration testing describe:
+	•	Expected results.
+	•	Actual results.
+	•	Anomalies.
+
+	•	Analysis (mandatory)
+	•	Overview
+	•	Reflect on your test results. What do they mean?
+	•	Does the system function as expected? 
+	•	Are there any major problems?
+	•	Reflection on end-users’ performance. Can they use the system?
+	•	Are there major outstanding flaws in your system?
+	•	Scalability: analyze the scalability of the system to larger numbers of e.g. users, devices, data, and distances. Identify potential scalability bottlenecks and discuss how they could be addressed.
+	•	Fault tolerance: analyze the fault tolerance of the system by identifying potential errors that may lead to failures in operations. Recognize any single points of failure the system may have, and discuss how they could be addressed.
+	•	Security: analyze the security of the system by identifying potential threats to system operation (e.g. access control to critical data) and user privacy (e.g. eavesdropping of communication) and discuss how these threats could be addressed.
+
+	•	References (mandatory)
+	•	Make sure to reference all textbooks, publications, products, websites, software etc. that you have used.
+
+	•	Contributions (mandatory)
+	•	Provide description of each project team member’s contribution to this particular stage.
+	•	Estimate of the amount of her/his work in hours.
+	•	Estimate of the share of her/his contribution to the total in this stage (%).
+	•	Brief textual description of her/his contribution.
+	•	Examples:
+	•	Dave Designer (30 h, 20%): Design of field trial.
+	•	Paul Programmer (50 h, 30%): Interviews, observations, data analysis.
+
